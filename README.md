@@ -11,6 +11,9 @@ Each project is organized in its own folder containing:
 
 ## Projects
 
+- **MIPS32 Processor**  
+  A 32-bit MIPS Processor featuring a 5-stage pipeline consisting of Instruction Fetch, Instruction Decode, Execute, Memory Access and Write Back stages.
+  
 - **Synchronous FIFO**  
   A parameterizable synchronous FIFO module with full and empty flag generation.
 
