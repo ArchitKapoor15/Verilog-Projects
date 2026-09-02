@@ -43,8 +43,6 @@ endtask
 initial
 begin
 reset = 1;
-#1;
-// rd_en = 0; wr_en = 0;
 
 @(posedge clk)
 reset = 0;
